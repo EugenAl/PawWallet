@@ -1,10 +1,10 @@
-package dpr.svich.pawwallet
+package dpr.svich.pawwallet.screens
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.RecoverySystem
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import dpr.svich.pawwallet.R
 import dpr.svich.pawwallet.adapter.CategoryRecyclerAdapter
 
 class MainActivity : AppCompatActivity() {
